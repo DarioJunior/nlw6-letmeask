@@ -1,6 +1,7 @@
 # Extensões Usadas:
 
 - Sass@^5.0.0;
+- react-router-dom + tipagens(npm i @types/react-router-dom);
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
