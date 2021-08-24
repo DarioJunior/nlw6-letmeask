@@ -1,9 +1,10 @@
 import React from 'react';
+import './services/firebase';
 
 function App() {
   return (
-    <div>
-      teste
+    <div className="App">
+      ALO
     </div>
   );
 }
